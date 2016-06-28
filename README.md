@@ -3,7 +3,7 @@
 ###Installation
 
 In julia repl,
-Pkg.clone("https://github.com/ozanarkancan/ParticleSwarmOptimization.jl.git")
+Pkg.clone("https://github.com/ozanarkancan/GPUChecker.jl.git")
 
 ###Usage
 ```julia
